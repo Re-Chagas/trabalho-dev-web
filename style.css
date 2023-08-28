@@ -5,6 +5,10 @@
   padding: 1rem;
 }
 
+.header h1{
+    text-shadow: 5px 5px black;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
